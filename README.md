@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://github.com/user-attachments/assets/41fc2368-e629-4f94-a13f-c49857e10535" alt="Microsoft Active Directory Logo"/>
 </p>
 
 <h1>Creating a Virtual Machine(Azure)</h1>
