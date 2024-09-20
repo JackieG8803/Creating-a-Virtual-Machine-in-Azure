@@ -14,7 +14,7 @@ We will also be creating a Virtual Network and Subnet.<br />
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 (21H2)
+- Windows 10 (22H2)
 - Linux (Ubuntu)
 
 <h2>Configuration Steps</h2>
